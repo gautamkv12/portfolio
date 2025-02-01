@@ -1,0 +1,267 @@
+#headerpage{
+height:600px;
+width:1260px;
+background-color:black;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float:left;
+margin-left:-30px;
+padding-left:150px;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover {
+background-color: #111;
+text-decoration:none;
+color:white;
+}
+
+#sidemessageheader{
+height:300px;
+width:500px;
+position:absolute;
+left:50px;
+top:170px;
+background-color:white;
+border-radius:20px;
+padding:20px;
+}
+
+#messagehone{
+font-family:fantasy;
+margin-left:5px;
+margin-top:5px;
+}
+
+#paragraphone{
+font-family:tahoma;
+font-size:20px;
+margin-top:20px;
+margin-left:5px;
+}
+
+#signature{
+margin-top:-140px;
+margin-left:-30px;
+}
+
+hr{
+background-color:black;
+height:15px;
+}
+
+#headerpic{
+width:350px;
+height:430px;
+position:absolute;
+top:-60px;
+left:700px;
+border-radius:15px;
+}
+
+#aboutmetext1{
+width:740px;
+height:700px;
+text-align:left;
+margin-left:10px;
+line-height:40px;
+}
+
+#skateboardingpic1{
+width:400px;
+height:400px;
+background-color:lightblue;
+position:absolute;
+top:100px;
+left:800px;
+}
+
+#skateboardingpic2{
+    width:400px;
+    height:500px;
+    background-color:lightblue;
+    position:absolute;
+    left:800px;
+    top:550px;
+}
+
+#drums1{
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:150px;
+    left:30px;
+}
+#drums2{
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:150px;
+    left:450px;
+}
+#drums3{
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:150px;
+    left:900px;
+}
+#drums4{
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:500px;
+    left:30px;
+}
+#drums5{
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:500px;
+    left:450px;
+}
+#drums6{
+    width:300px;
+    height:300px;
+    position:absolute;
+    top:500px;
+    left:900px;
+}
+
+#certificatestext{
+    margin-left:30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+}
+
+
+#cafecoffeewebsite{
+height:300px;
+width:300px;
+position:absolute;
+top:150px;
+left:30px;
+border:2px solid black;
+}
+#educationalwebsite{
+    height:300px;
+    width:300px;
+    position:absolute;
+    top:150px;
+    left:450px;
+    border:2px solid black;
+}
+#nextgenfitnesswebsite{
+    height:300px;
+    width:300px;
+    position:absolute;
+    top:150px;
+    left:870px;
+    border:2px solid black;
+}
+#ecommercewebsite{
+    height:300px;
+    width:300px;
+    position:absolute;
+    left:30px;
+    top:550px;
+    border:2px solid black;
+}
+#portfoliowebsite{
+    height:300px;
+    width:300px;
+    position:absolute;
+    left:450px;
+    top:550px;
+    border:2px solid black;
+}
+
+#schoolwebsite{
+    height:300px;
+    width:300px;
+    position:absolute;
+    left:870px;
+    top:550px;
+    border:2px solid black;
+}
+
+#ccwbutton{
+    background-color:red;
+    color:white;
+    width:80px;
+    height:50px;
+    border-radius:4px;
+    position:absolute;
+    left:130px;
+    top:470px;
+    font-size:15px;
+}
+#edcbutton{
+    background-color:red;
+    color:white;
+    width:90px;
+    height:50px;
+    border-radius:4px;  
+    position:absolute;
+    left:550px;  
+    top:470px;
+    font-size:15px;
+}
+#ngfbutton{
+    background-color:red;
+    color:white;
+    width:80px;
+    height:50px;
+    border-radius:4px;
+    position:absolute;
+    left:980px;
+    top:470px;
+    font-size:15px;
+}
+#ecmbutton{
+    background-color:red;
+    color:white;
+    width:90px;
+    height:50px;
+    border-radius:4px;
+    position:absolute;
+    left:130px;
+    top:870px;
+    font-size:15px;
+}
+#ptfbutton{
+    background-color:red;
+    color:white;
+    width:80px;
+    height:50px;
+    border-radius:4px; 
+    position:absolute;
+    left:550px;   
+    top:870px;
+    font-size:15px;
+}
+#schbutton{
+    background-color:red;
+    color:white;    
+    width:80px;
+    height:50px;
+    border-radius:4px;
+    position:absolute;
+    left:980px;
+    top:870px;
+    font-size:15px;
+}
